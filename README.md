@@ -1,7 +1,7 @@
 1.  **Start**
 
     run this command at terminal 
-    ```gatsby develop
+    ```gatsby develop```
     
 
 2.  **Open**
