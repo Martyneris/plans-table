@@ -1,7 +1,8 @@
 1.  **Start**
 
-    gatsby develop
-    ```
+    run this command at terminal 
+    ```gatsby develop
+    
 
 2.  **Open**
 
