@@ -1,6 +1,7 @@
 1.  **Start**
 
-    run this command at terminal 
+    run this command at terminal
+
     ```gatsby develop```
     
 
